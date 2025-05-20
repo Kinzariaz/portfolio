@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main1{
+
+    background-color: yellow;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.header1{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    margin-top: 20px;
+    padding: 10px;
+}
+.text h1{
+    font-size:50px;
+  .dancing-script-uniquifier 
+  font-family: "Dancing Script", cursive;
+
+}
+.text h2{
+    padding-top: 10px;
+    background-color: gray;
+    color: black;
+    text-align: center;
+    .dancing-script-uniquifier
+    font-family: "Dancing Script", cursive;
+ }
+.text p{
+     font-family: "Dancing Script", cursive;
+}
+.img img{
+    height: 300px;
+    width: 250px;
+}
+.header2{
+    width: 100%;
+    height: 50px;
+    background-color: purple;
+}
+.add{
+    word-spacing: 5px;
+    padding-left: 200px;
+    padding-top: 15px;
+    color: yellow;
+    font-style: italic;
+    font-size: 20px;
+}
+.main2{
+    background-color:rgba(19, 9, 9, 0.949);
+    height: 250vh;
+}
+.content1{
+    display: flex;
+}
+.follow{
+    padding-left: 90px;
+    padding-top: 50px;
+    color: white;
+}
+.line{
+    background-color:rgba(16, 7, 7, 0.923) ;
+    width: 300px;
+    height: 4px;
+    margin-top: 10px;
+}
+.follow i{
+    padding-top: 30px;
+    padding-top: 10px;
+    color:palevioletred;
+}
+.follow p{
+    padding-top: 5px;
+    font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.education{
+     padding-left: 400px;
+    padding-top: 50px;
+    color: white; 
+}
+.education h3{
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 20px;
+    color:palevioletred;
+    word-spacing: 10px;
+}
+.education p{
+    padding-top: 5px;
+    font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.content2{
+    display: flex;
+}
+.contact{
+    padding-left: 90px;
+    padding-top: 30px;
+    color: white;
+}
+.contact i{
+    padding-top: 20px;
+    padding-top: 10px;
+    color: palevioletred;
+}
+.contact p{
+    padding-top: 5px;
+    font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.experience{
+     padding-left: 400px;
+    padding-top: 50px;
+    color: white;
+}
+.experience ul li{
+    padding-top: 20px;
+    font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.main3{
+    display: flex;
+}
+.skill{
+    padding-left: 90px;
+    padding-top: 30px;
+    color: white; 
+}
+.skill p{
+    padding-top: 5px;
+     font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.progress-bar.one{
+    background-color:greenyellow;
+    color:black;
+    border-radius: 10px;
+    height:15px;
+}
+.progress-bar.two{
+    background-color:skyblue;
+    color:black;
+    border-radius: 10px;
+    height:15px;
+}
+.progress-bar.three{
+    background-color:peru;
+    color:black;
+    border-radius: 10px;
+    height:15px;
+}
+.progress-bar.four{
+    background-color:red;
+    color:black;
+    border-radius: 10px;
+    height:15px;
+}
+
+.hobbie{
+    padding-left: 490px;
+    padding-top: 50px;
+    color: white; 
+}
+.hobbie p{
+    padding-top: 20px;
+     font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.hobbie i {
+    color: palevioletred;
+}
+.content3{
+    display: flex;
+}
+.language{
+     padding-left: 90px;
+    padding-top: 50px;
+    color: white; 
+}
+.language ul li{
+    padding-top: 20px;
+     font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
+.reference{
+      padding-left: 90px;
+    padding-top: 50px;
+    color: white; 
+}
+.reference ul li{
+    padding-top: 20px;
+     font-style: italic;
+    font-size: 20px;
+    color: yellow;
+}
